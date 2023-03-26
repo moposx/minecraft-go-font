@@ -1,0 +1,23 @@
+{
+  "providers": [
+    {
+      "type": "caxton",
+      "regular": {
+        "file": "caxton:go_regular.ttf",
+        "shadow_offset": 0.5
+      },
+      "bold": {
+        "file": "caxton:go_bold.ttf",
+        "shadow_offset": 0.5
+      },
+      "italic": {
+        "file": "caxton:go_italic.ttf",
+        "shadow_offset": 0.5
+      },
+      "bold_italic": {
+        "file": "caxton:go_bold_italic.ttf",
+        "shadow_offset": 0.5
+      }
+    }
+  ]
+}
