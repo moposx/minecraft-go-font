@@ -5,9 +5,13 @@
 
 This is a Minecraft resource pack including the [Go font](https://go.dev/blog/go-fonts).
 
+Other fonts can be found in the [releases](https://github.com/moposx/minecraft-go-font/releases/tag/other).
+
 ## How to use the resource pack
 
 First you need to install the [Caxton](https://modrinth.com/mod/caxton) mod, which is **required** for the font provider.
+
+> Caxton itself has provided two fonts: Inter and Open Sans. Give'em a shot first!
 
 Then, download the `go.zip` file from the release page, and drop it into `.minecraft/resourcepacks`.
 
@@ -22,3 +26,5 @@ The specimens of Go font, provided in Go's blog are below：
 ## License
 
 A [copy](./resourcepack/assets/caxton/textures/font/README) of the license of Go fonts has been enclosed with this resource pack.
+
+This also applies to other font resource packs: copies of licenses have been included in the pack.
